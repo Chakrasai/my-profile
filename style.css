@@ -1,0 +1,73 @@
+#col{
+    background-image: url(iare.jpg);
+    border: solid black 4px;
+    border-radius: 5%;
+    height: 400px;
+    width: 100%;
+    background-position: center;
+    background-size:contain;
+    
+}
+#bar1{
+    background-color:aqua;
+    height: 200px;
+    position:relative;
+    
+}
+#bar2{
+    background-color:deepskyblue;
+    height: 200px;
+    position:relative;
+
+}
+#photo2{
+    background-image:url("COLLEGE.jpg");
+    border: solid black;
+    border-radius: 5%;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+}
+#photo1{
+    background-image:url("school.jpg");
+    border: solid black;
+    border-radius: 5%;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    
+}
+#photo{
+    background-image:url("myphoto.jpg");
+    border: solid black;
+    border-radius: 5%;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    
+}
+body{
+    background-image: url("resumepic.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#para{
+    text-align:center;
+    color: brown;
+    font-size: 40px;
+}
